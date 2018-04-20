@@ -1,7 +1,7 @@
 class Josepp < Formula
   desc "JSON Object Signing and Encryption library for C++"
   homepage "https://github.com/troian/josepp"
-  url "https://github.com/troian/josepp/archive/v1.1.0.tar.gz"
+  url "https://github.com/troian/josepp/archive/v1.2.0.tar.gz"
   sha256 "2db32c2220784698b4242c64d5835d2f2efb4c9cf3163051d5ef611c1181f5c8"
   head "https://github.com/troian/josepp.git"
 
