@@ -1,8 +1,8 @@
 class Jwtpp < Formula
   desc "JSON Object Signing and Encryption library for C++"
   homepage "https://github.com/troian/jwtpp"
-  url "https://github.com/troian/jwtpp/archive/v2.0.1.tar.gz"
-  sha256 "377ef80402c00f6125d83138afd569e3a55ac63fb8e13e460f9970f72104e66e"
+  url "https://github.com/troian/jwtpp/archive/v2.0.2.tar.gz"
+  sha256 "c12961fdb3bf34780d9e61fcef97088a2b200edd507aacefd195a9b768f54e04"
   head "https://github.com/troian/jwtpp.git"
 
   bottle do
