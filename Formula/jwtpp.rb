@@ -1,13 +1,9 @@
 class Jwtpp < Formula
   desc "JSON Object Signing and Encryption library for C++"
   homepage "https://github.com/troian/jwtpp"
-  url "https://github.com/troian/jwtpp/archive/v2.0.2.tar.gz"
-  sha256 "c12961fdb3bf34780d9e61fcef97088a2b200edd507aacefd195a9b768f54e04"
+  url "https://github.com/troian/jwtpp/archive/v2.0.4.tar.gz"
+  sha256 "872ffa40a78e967b6334c317d18eb5ac981452ea2b74714b8ee8d83c69ca3296"
   head "https://github.com/troian/jwtpp.git"
-
-  bottle do
-    cellar :any
-  end
 
   depends_on "cmake" => :build
   depends_on "jsoncpp"
